@@ -7,7 +7,7 @@ def scramble(s1,s2):
             return False
     return True
     '''
-
+#
 
 def scramble(s1, s2):
     d1 = defaultdict(int)
