@@ -7,6 +7,7 @@ def scramble(s1,s2):
             return False
     return True
     '''
+""" return len(Counter(s2)- Counter(s1)) == 0"""
 
 
 def scramble(s1, s2):
